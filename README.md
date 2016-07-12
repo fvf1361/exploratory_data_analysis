@@ -1,7 +1,18 @@
 # exploratory_data_analysis
 Coursera Assignment 1
 
-This repositry contains 4 R scripts and 4 png plots
+This repositry contains 4 R scripts and 4 png plots as the following:
+
+-Plot1.R
+-Plot2.R
+-Plot3.R
+-Plot4.R
+
+-Plot1.png
+-Plot2.png
+-Plot3.png
+-Plot4.png
+
 The plots summarize the household energy usage over a 2-day period in February 2007.
 Original data downlaoded from UCI web site
 
